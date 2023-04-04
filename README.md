@@ -3,6 +3,8 @@
 
 >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
 
+This repository is the offical implementation of my Honours Thesis
+
 This repository consists of 2 folders and 4 python scripts:
 
 1. data 
