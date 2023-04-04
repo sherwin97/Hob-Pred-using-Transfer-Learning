@@ -1,10 +1,9 @@
 # Evaluating the Use of GNNs and Transfer Learning for Oral Bioavailability Prediction
 
-This repository is the official implementation of (under review)
 
 >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
 
-This repository consists of 3 folders and 4 python scripts:
+This repository consists of 2 folders and 4 python scripts:
 
 1. data 
     1. graph_data: csv files of solubility dataset and oral bioavailability dataset
@@ -16,13 +15,10 @@ This repository consists of 3 folders and 4 python scripts:
     2. GNN from scratch models 
     3. Transfer learning models 
     
-3. trf_learning_models
-    1. Models that were pre-trained with solubility dataset 
-
-4. config.py
+3. config.py
     1. hyperparameters and constant variables used in this project
 
-5. engine.py, model.py, utils.py
+4. engine.py, model.py, utils.py
     1. Contains GNN models and helper functions used in this project 
     
 To replicate, please install the dependencies below and follow the instructions in the notebooks.
