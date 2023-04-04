@@ -26,6 +26,7 @@ This repository consists of 3 folders and 4 python scripts:
     1. Contains GNN models and helper functions used in this project 
     
 To replicate, please install the dependencies below and follow the instructions in the notebooks.
+Please download the saved models from [here](https://drive.google.com/drive/folders/19O4Xo_F-6MKK5H6JE0ykrQ4ZNXoYdOCJ?usp=share_link).
 
 ## Requirements
 
