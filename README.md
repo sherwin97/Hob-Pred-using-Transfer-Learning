@@ -7,12 +7,12 @@ This repository is the offical implementation of my Honours Thesis
 
 This repository consists of 2 folders and 4 python scripts:
 
-1. data 
+1. data folder
     1. graph_data: csv files of solubility dataset and oral bioavailability dataset
     2. oral_avail_fingerprints: csv files of oral bioavailability dataset fingerprints
     3. oral_mol_desc: csv files of oral bioavailability dataset molecular descriptors 
 
-2. notebooks --> mainly 3 parts to it as listed below.
+2. notebooks folder 
     1. Random forest model
     2. GNN from scratch models 
     3. Transfer learning models 
