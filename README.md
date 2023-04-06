@@ -1,4 +1,4 @@
-# Evaluating the Use of GNNs and Transfer Learning for Oral Bioavailability Prediction
+# Evaluating the Use of GNNs and Transfer Learning for Oral Bioavailability Prediction (pending publication)
 
 
 > ![TOC](https://user-images.githubusercontent.com/66246089/229825030-bf6dbc3f-ecdc-4adb-8c38-2d6427fc5a04.png)
