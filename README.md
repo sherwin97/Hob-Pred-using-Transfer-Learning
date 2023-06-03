@@ -3,8 +3,6 @@
 
 > ![TOC](https://user-images.githubusercontent.com/66246089/229825030-bf6dbc3f-ecdc-4adb-8c38-2d6427fc5a04.png)
 
-This repository is the offical implementation of my Honours Thesis
-
 This repository consists of 2 folders and 4 python scripts:
 
 1. data folder
